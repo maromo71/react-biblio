@@ -11,6 +11,12 @@
 # production
 /build
 
+#netlify
+/.netlify
+
+#firebase
+/src/firebaseConn.js
+
 # misc
 .DS_Store
 .env.local
